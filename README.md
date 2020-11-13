@@ -1,6 +1,3 @@
-<!--
-**Genji-MS/Genji-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">  
   <samp>   
     Game Design + Data Science + Back End Web<br>
@@ -19,3 +16,6 @@
     NitW_Merch <a href="https://github.com/Genji-MS/NitW_Merch">Night in the woods merchendise store mockup.</a><br>
   </samp>
 </p>
+
+<!--
+**Genji-MS/Genji-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
