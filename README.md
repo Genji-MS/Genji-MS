@@ -1,16 +1,21 @@
-### Hi there 👋
-
 <!--
 **Genji-MS/Genji-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">  
+  <samp>   
+    Game Design + Data Science + Back End Web<br>
+    <img src="https://github.com/Genji-MS/Genji-MS.github.io/blob/main/giphy.gif" width="200">
+    <h2 align="center" style="color: #fc6203">
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://genji.games">GENGI.GAMES</a>
+    </h2>
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Top 3 Projects: <br>
+    Elis <a href="https://github.com/Genji-MS/Elis-ProductPitch">Video game product pitch</a><br>
+    IMJA <a href="https://github.com/Genji-MS/imja">encode/decode hidden text into an image.</a><br>
+    NitW_Merch <a href="https://github.com/Genji-MS/NitW_Merch">Night in the woods merchendise store mockup.</a><br>
+  </samp>
+</p>
