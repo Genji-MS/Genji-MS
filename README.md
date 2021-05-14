@@ -11,9 +11,9 @@
 <p align="center">
   <samp>
     Top 3 Projects: <br>
-    Elis <a href="https://github.com/Genji-MS/Elis-ProductPitch">Video game product pitch</a><br>
-    IMJA <a href="https://github.com/Genji-MS/imja">encode/decode hidden text into an image.</a><br>
-    NitW_Merch <a href="https://github.com/Genji-MS/NitW_Merch">Night in the woods merchendise store mockup.</a><br>
+    2D-to-Stereoscopic <a href="https://github.com/Genji-MS/2D-to-Stereoscopic">Machine Learning 3D images</a><br>
+    IMJA <a href="https://github.com/Genji-MS/imja">encode/decode hidden text into an image</a><br>
+    NitW_Merch <a href="https://github.com/Genji-MS/NitW_Merch">Night in the woods merchendise store mockup</a><br>
   </samp>
 </p>
 
