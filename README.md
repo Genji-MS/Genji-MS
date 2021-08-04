@@ -13,7 +13,7 @@
     Top 3 BEW Projects: <br>
     IMJA <a href="https://github.com/Genji-MS/imja">encode/decode hidden text into an image</a><br>
     PrimitiveGif <a href="https://github.com/Genji-MS/PrimitiveGif">'GO' tool converts image into stylized gif</a><br>
-    NitW_Merch <a href="https://github.com/Genji-MS/NitW_Merch">Night in the woods merchendise store mockup</a><br>
+    Presidential QuoteGen <a href="https://github.com/Genji-MS/Presidential-QuoteGen">Generates fun presidential quotes</a><br>
   </samp>
 </p>
 
