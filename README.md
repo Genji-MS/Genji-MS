@@ -3,7 +3,7 @@
     Game Design + Data Science + Back End Web<br>
     <img src="https://github.com/Genji-MS/Genji-MS.github.io/blob/main/GenjiGames.png" width="450">
     <h2 align="center" style="color: #fc6203">
-      <a rel="nofollow noopener noreferrer" target="_blank" href="https://genji.games">GENGI.GAMES</a>
+      <a rel="nofollow noopener noreferrer" target="_blank" href="https://genji-games.herokuapp.com">GENGI.GAMES</a>
     </h2>
   </samp>
 </p>
